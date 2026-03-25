@@ -9,4 +9,5 @@ except ValueError:
     print("Nah man, that's not binary, write again!")
 
 #comment addded
+# 69 is  funny number hahah
 print(29)
